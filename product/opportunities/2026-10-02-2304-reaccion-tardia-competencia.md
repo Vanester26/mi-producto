@@ -70,6 +70,6 @@ Decisión final (perseguir / descartar / reformular): 2026-12-15.
 
 ## Candidate ideas (not evaluated)
 
-- Monitoreo automatizado de tarifa, horario y frecuencia del competidor (del input original).
-- Sugerencia de ajuste concreto de control tarifario en el lenguaje del analista (del input original; depende de la creencia #1).
-- Línea base a comparar: el workaround actual — planilla manual + scraper casero (Mariana).
+- Monitoreo automatizado de tarifa, horario y frecuencia del competidor (del input original). → `chosen` como A1 `monitor-alertas` — product/solutions/2026-10-26-2022-reaccion-tardia-competencia.md
+- Sugerencia de ajuste concreto de control tarifario en el lenguaje del analista (del input original; depende de la creencia #1). → `chosen` como A2 `sugeridor-ajustes` — product/solutions/2026-10-26-2022-reaccion-tardia-competencia.md
+- Línea base a comparar: el workaround actual — planilla manual + scraper casero (Mariana). → baseline — product/solutions/2026-10-26-2022-reaccion-tardia-competencia.md
