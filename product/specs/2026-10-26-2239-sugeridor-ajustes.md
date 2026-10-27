@@ -115,6 +115,7 @@ Explorado en: product/solutions/2026-10-26-2022-reaccion-tardia-competencia.md
 ## Probado antes del spec
 
 Probado en: product/tests/2026-10-26-2038-reaccion-tardia-competencia.md
+Métricas en: product/metrics/2026-10-26-2328-sugeridor-ajustes.md
 - T2 sugeridor-ajustes — inconclusive (synthetic, rehearsal) · #1. La corrida real está pendiente, con 6 meses de historial del inventario. Un `passed` vale solo para la ocupación de la aerolínea propia, no para la del competidor.
 - T1 monitor-alertas — passed (synthetic, rehearsal) · #4. Es un ensayo y no es evidencia sobre el segmento.
 - #10 (la adopción de la sugerencia) — not tested (declared). El paso siguiente de T2, si pasa, es un `prototype-shown` con 5 analistas.
